@@ -1,0 +1,164 @@
+{
+  "project_info": {
+    "project_number": "72282493945",
+    "firebase_url": "https://sampleotg.firebaseio.com",
+    "project_id": "sampleotg",
+    "storage_bucket": "sampleotg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72282493945:android:d439eb82811a6273f4a328",
+        "android_client_info": {
+          "package_name": "ani.saikou.beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72282493945-5opcd2q2npd14ld0tcbl3k7v95tq5q7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFqQBeRHliiZEo7cbtR57D7j4hCS2d3l4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72282493945-5opcd2q2npd14ld0tcbl3k7v95tq5q7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72282493945:android:3b31b0d54f34e0a8f4a328",
+        "android_client_info": {
+          "package_name": "com.lazycoder.cakevpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72282493945-5opcd2q2npd14ld0tcbl3k7v95tq5q7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFqQBeRHliiZEo7cbtR57D7j4hCS2d3l4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72282493945-5opcd2q2npd14ld0tcbl3k7v95tq5q7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72282493945:android:12ffb1bde90309f0",
+        "android_client_info": {
+          "package_name": "us.endoscopecamera.endoscopeappforandroid.snaponborescope.inspectioncamera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72282493945-ukfch4qevt7infvevcssf23h446bosv3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "us.endoscopecamera.endoscopeappforandroid.snaponborescope.inspectioncamera",
+            "certificate_hash": "279838617d467cecdde9b5f72a1d92b74f5ce07f"
+          }
+        },
+        {
+          "client_id": "72282493945-5opcd2q2npd14ld0tcbl3k7v95tq5q7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFqQBeRHliiZEo7cbtR57D7j4hCS2d3l4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72282493945-5opcd2q2npd14ld0tcbl3k7v95tq5q7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72282493945:android:21a9f335510b61b5",
+        "android_client_info": {
+          "package_name": "us.endoscopecamera.endoscopeappforandroid.snaponborescope.inspectioncamerabb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72282493945-5opcd2q2npd14ld0tcbl3k7v95tq5q7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFqQBeRHliiZEo7cbtR57D7j4hCS2d3l4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72282493945-5opcd2q2npd14ld0tcbl3k7v95tq5q7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72282493945:android:75e2b923181a6416f4a328",
+        "android_client_info": {
+          "package_name": "us.simo.app.ok.koko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72282493945-5opcd2q2npd14ld0tcbl3k7v95tq5q7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFqQBeRHliiZEo7cbtR57D7j4hCS2d3l4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72282493945-5opcd2q2npd14ld0tcbl3k7v95tq5q7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
