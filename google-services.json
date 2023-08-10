@@ -1,164 +1,120 @@
-{
-  "project_info": {
-    "project_number": "72282493945",
-    "firebase_url": "https://sampleotg.firebaseio.com",
-    "project_id": "sampleotg",
-    "storage_bucket": "sampleotg.appspot.com"
-  },
-  "client": [
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:72282493945:android:d439eb82811a6273f4a328",
-        "android_client_info": {
-          "package_name": "ani.saikou.beta"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "72282493945-5opcd2q2npd14ld0tcbl3k7v95tq5q7v.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAFqQBeRHliiZEo7cbtR57D7j4hCS2d3l4"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "72282493945-5opcd2q2npd14ld0tcbl3k7v95tq5q7v.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:72282493945:android:3b31b0d54f34e0a8f4a328",
-        "android_client_info": {
-          "package_name": "com.lazycoder.cakevpn"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "72282493945-5opcd2q2npd14ld0tcbl3k7v95tq5q7v.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAFqQBeRHliiZEo7cbtR57D7j4hCS2d3l4"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "72282493945-5opcd2q2npd14ld0tcbl3k7v95tq5q7v.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:72282493945:android:12ffb1bde90309f0",
-        "android_client_info": {
-          "package_name": "us.endoscopecamera.endoscopeappforandroid.snaponborescope.inspectioncamera"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "72282493945-ukfch4qevt7infvevcssf23h446bosv3.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "us.endoscopecamera.endoscopeappforandroid.snaponborescope.inspectioncamera",
-            "certificate_hash": "279838617d467cecdde9b5f72a1d92b74f5ce07f"
-          }
-        },
-        {
-          "client_id": "72282493945-5opcd2q2npd14ld0tcbl3k7v95tq5q7v.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAFqQBeRHliiZEo7cbtR57D7j4hCS2d3l4"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "72282493945-5opcd2q2npd14ld0tcbl3k7v95tq5q7v.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:72282493945:android:21a9f335510b61b5",
-        "android_client_info": {
-          "package_name": "us.endoscopecamera.endoscopeappforandroid.snaponborescope.inspectioncamerabb"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "72282493945-5opcd2q2npd14ld0tcbl3k7v95tq5q7v.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAFqQBeRHliiZEo7cbtR57D7j4hCS2d3l4"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "72282493945-5opcd2q2npd14ld0tcbl3k7v95tq5q7v.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:72282493945:android:75e2b923181a6416f4a328",
-        "android_client_info": {
-          "package_name": "us.simo.app.ok.koko"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "72282493945-5opcd2q2npd14ld0tcbl3k7v95tq5q7v.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAFqQBeRHliiZEo7cbtR57D7j4hCS2d3l4"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "72282493945-5opcd2q2npd14ld0tcbl3k7v95tq5q7v.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "configuration_version": "1"
+{"ads":{
+  
+
+"unity_inter":"Interstitial_Android",
+"unity_banner":"Banner_Android",
+"unity_reward":"Rewarded_Android",
+"unity_gameid":"5082535",
+  
+  
+"applovin_inter":"269d73adeea133fb",
+"applovin_native":"5534d47212ed8e80",
+"applovin_banner":"d7e5387a22cc8044",
+"applovin_reward":"a017b8481646d9c2",
+
+  
+"ironsource_inter":"DefaultInterstitial",
+"iron_appkey":"85460dcd",
+"ironsource_banner":"DefaultBanner",
+"ironsource_reward":"DefaultReward",
+ 
+
+"facebook_inter":"IMG_16_9_APP_INSTALL#1444095999348608_1507496829675191",
+"facebook_banner":"IMG_16_9_APP_INSTALL#1444095999348608_1508844899540384",
+"facebook_native":"IMG_16_9_APP_INSTALL#1444095999348608_1526320831126124",
+"facebook_reward":"PLAYABLE#1444095999348608_1582552458836294",
+  
+
+"admob_inter":"ca-app-pub-3940256099942544/1033173712",
+"admob_banner":"ca-app-pub-3940256099942544/6300978111",
+"admob_native":"ca-app-pub-3940256099942544/2247696110",
+"admob_reward":"ca-app-pub-3940256099942544/5224354917",
+  
+  
+"yandex_banner":"R-M-DEMO-320x100",
+"yandex_inter":"R-M-DEMO-interstitial",
+"yandex_native":"R-M-DEMO-native-i",
+"yandex_reward":"demo-rewarded-yandex",
+
+
+
+
+"banner_network_choice":"admob", 
+"interstisial_network_choice":"admob", 
+"reward_network_choice":"admob",
+"native_network_choice":"admob",
+
+ "ovpn_file":[
+  {"country":"usa",
+    "flag":"https://github.com/proman00014/forme/blob/main/usa.png?raw=true",
+    "file":"",
+    "username":"","password":""},
+  {"country":"uk",
+    "flag":"https://github.com/proman00014/forme/blob/main/uk.png?raw=true",
+    "file":"",
+    "username":"","password":""},
+  {"country":"canada",
+    "flag":"https://github.com/proman00014/forme/blob/main/canada.png?raw=true",
+    "file":"",
+    "username":"","password":""},
+  {"country":"france",
+    "flag":"https://github.com/proman00014/forme/blob/main/france.png?raw=true",
+    "file":"",
+    "username":"","password":""},
+  {"country":"germany",
+    "flag":"https://github.com/proman00014/forme/blob/main/germany.png?raw=true",
+    "file":"",
+    "username":"","password":""},
+  {"country":"iceland",
+    "flag":"https://github.com/proman00014/forme/blob/main/iceland.png?raw=true",
+    "file":"",
+    "username":"","password":""},
+  {"country":"italy",
+    "flag":"https://github.com/proman00014/forme/blob/main/italy.png?raw=true",
+    "file":"",
+    "username":"","password":""},
+  {"country":"japan",
+    "flag":"https://github.com/proman00014/forme/blob/main/japan.png?raw=true",
+    "file":"",
+    "username":"","password":""},
+  {"country":"mexico",
+    "flag":"https://github.com/proman00014/forme/blob/main/mexico.png?raw=true",
+    "file":"",
+    "username":"","password":""},
+  {"country":"netherlands",
+    "flag":"https://github.com/proman00014/forme/blob/main/netherlands.png?raw=true",
+    "file":"",
+    "username":"","password":""},
+  {"country":"portugal",
+    "flag":"https://github.com/proman00014/forme/blob/main/portugal.png?raw=true",
+    "file":"",
+    "username":"","password":""},
+  {"country":"south korea",
+    "flag":"https://github.com/proman00014/forme/blob/main/southkorea.png?raw=true",
+    "file":"",
+    "username":"","password":""},
+  {"country":"spain",
+    "flag":"https://github.com/proman00014/forme/blob/main/spain.png?raw=true",
+    "file":"",
+    "username":"","password":""},
+  {"country":"Switzerland",
+    "flag":"https://github.com/proman00014/forme/blob/main/Switzerland.png?raw=true",
+    "file":"",
+    "username":"","password":""},
+  {"country":"Turkey",
+    "flag":"https://github.com/proman00014/forme/blob/main/Turkey.png?raw=true",
+    "file":"",
+    "username":"","password":""}
+   ]
+  
+  
+
+
 }
+ 
+
+  
+
+ 
+}
+   
